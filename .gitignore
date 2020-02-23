@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 /env
 /.vscode
+
+/media/profile_pics/*
+/media/*.jpg
