@@ -5,6 +5,7 @@ A simple blog made using Django, following Django best practices and using Djang
 ## Steps to run a dev server
 ### (optional, but recommended)
 Create a virtual environment: `virtualenv env`
+
 Activate environment: `env\Scripts\activate`
 
 ### Install dependencies
